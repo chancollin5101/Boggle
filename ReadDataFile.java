@@ -1,8 +1,3 @@
-
-/**
- *
- * @author Evan Glazer
- */
 package inputOutput;
 
 import java.io.File;
